@@ -1,3 +1,4 @@
 data
-yolov8m.pt
+*.pt
 dataYolo
+runs
